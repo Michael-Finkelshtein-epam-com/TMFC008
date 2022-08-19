@@ -1,0 +1,12 @@
+Schema name is 'RetrieveServiceSuccess' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-258&gt;
+- 
+- 
+
+- Service
+- Service
+- 

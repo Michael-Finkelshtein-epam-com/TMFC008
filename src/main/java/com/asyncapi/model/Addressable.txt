@@ -1,0 +1,12 @@
+Schema name is 'Addressable' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-304&gt;
+- 
+- 
+
+- &lt;anonymous-schema-305&gt;
+- 
+- 

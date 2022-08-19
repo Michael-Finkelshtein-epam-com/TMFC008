@@ -1,0 +1,12 @@
+Schema name is 'TimePeriod' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-48&gt;
+- 
+- 
+
+- &lt;anonymous-schema-49&gt;
+- 
+- 

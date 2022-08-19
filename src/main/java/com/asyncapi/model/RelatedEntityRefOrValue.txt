@@ -1,0 +1,36 @@
+Schema name is 'RelatedEntityRefOrValue' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-76&gt;
+- 
+- 
+
+- &lt;anonymous-schema-77&gt;
+- 
+- 
+
+- &lt;anonymous-schema-78&gt;
+- 
+- 
+
+- &lt;anonymous-schema-79&gt;
+- 
+- 
+
+- &lt;anonymous-schema-80&gt;
+- 
+- 
+
+- &lt;anonymous-schema-81&gt;
+- 
+- 
+
+- &lt;anonymous-schema-82&gt;
+- 
+- 
+
+- &lt;anonymous-schema-83&gt;
+- 
+- 

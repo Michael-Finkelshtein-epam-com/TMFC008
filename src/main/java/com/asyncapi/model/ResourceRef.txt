@@ -1,0 +1,32 @@
+Schema name is 'ResourceRef' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-149&gt;
+- 
+- 
+
+- &lt;anonymous-schema-150&gt;
+- 
+- 
+
+- &lt;anonymous-schema-151&gt;
+- 
+- 
+
+- &lt;anonymous-schema-152&gt;
+- 
+- 
+
+- &lt;anonymous-schema-153&gt;
+- 
+- 
+
+- &lt;anonymous-schema-154&gt;
+- 
+- 
+
+- &lt;anonymous-schema-155&gt;
+- 
+- 

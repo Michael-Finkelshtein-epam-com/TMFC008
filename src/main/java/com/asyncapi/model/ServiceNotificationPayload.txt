@@ -1,0 +1,14 @@
+Schema name is 'ServiceNotificationPayload' and properties are:
+T005-
+T006-eventType
+
+    T006-ServiceBaseEvent
+    T006-
+    T006-object
+
+
+    T006-ServiceBasePlusEvent
+    T006-
+    T006-object
+
+

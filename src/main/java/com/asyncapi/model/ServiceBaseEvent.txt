@@ -1,0 +1,44 @@
+Schema name is 'ServiceBaseEvent' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-236&gt;
+- 
+- 
+
+- &lt;anonymous-schema-237&gt;
+- 
+- 
+
+- &lt;anonymous-schema-238&gt;
+- 
+- 
+
+- ServiceEventPayload
+- ServiceEventPayload
+- 
+
+- &lt;anonymous-schema-239&gt;
+- 
+- 
+
+- &lt;anonymous-schema-240&gt;
+- 
+- 
+
+- &lt;anonymous-schema-241&gt;
+- 
+- 
+
+- &lt;anonymous-schema-242&gt;
+- 
+- 
+
+- &lt;anonymous-schema-243&gt;
+- 
+- 
+
+- &lt;anonymous-schema-244&gt;
+- 
+- 

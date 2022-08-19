@@ -1,0 +1,12 @@
+Schema name is 'RetrieveServiceRequestPayload' and properties are:
+T005-
+T006-
+
+
+- RetrieveServiceRequestPayloadParameters
+- RetrieveServiceRequestPayloadParameters
+- 
+
+- RetrieveServiceRequestPayloadFilters
+- RetrieveServiceRequestPayloadFilters
+- 

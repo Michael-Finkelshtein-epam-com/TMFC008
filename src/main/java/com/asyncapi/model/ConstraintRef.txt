@@ -1,0 +1,36 @@
+Schema name is 'ConstraintRef' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-17&gt;
+- 
+- 
+
+- &lt;anonymous-schema-18&gt;
+- 
+- 
+
+- &lt;anonymous-schema-19&gt;
+- 
+- 
+
+- &lt;anonymous-schema-20&gt;
+- 
+- 
+
+- &lt;anonymous-schema-21&gt;
+- 
+- 
+
+- &lt;anonymous-schema-22&gt;
+- 
+- 
+
+- &lt;anonymous-schema-23&gt;
+- 
+- 
+
+- &lt;anonymous-schema-24&gt;
+- 
+- 

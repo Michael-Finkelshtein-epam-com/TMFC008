@@ -1,0 +1,36 @@
+Schema name is 'ServiceRelationship' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-107&gt;
+- 
+- 
+
+- &lt;anonymous-schema-108&gt;
+- 
+- 
+
+- &lt;anonymous-schema-109&gt;
+- 
+- 
+
+- &lt;anonymous-schema-110&gt;
+- 
+- 
+
+- &lt;anonymous-schema-111&gt;
+- 
+- 
+
+- &lt;anonymous-schema-112&gt;
+- 
+- 
+
+- ServiceRefOrValue
+- 
+- 
+
+- &lt;anonymous-schema-157&gt;
+- 
+- 

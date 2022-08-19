@@ -1,0 +1,12 @@
+Schema name is 'PatchServiceRequestPayload' and properties are:
+T005-
+T006-
+
+
+- ServiceUpdate
+- 
+- 
+
+- PatchServiceRequestPayloadParameters
+- PatchServiceRequestPayloadParameters
+- 

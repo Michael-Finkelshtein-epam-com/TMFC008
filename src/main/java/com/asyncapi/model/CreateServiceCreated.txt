@@ -1,0 +1,12 @@
+Schema name is 'CreateServiceCreated' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-235&gt;
+- 
+- 
+
+- Service
+- Service
+- 

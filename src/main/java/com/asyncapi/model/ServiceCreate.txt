@@ -1,0 +1,112 @@
+Schema name is 'ServiceCreate' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-209&gt;
+- 
+- 
+
+- &lt;anonymous-schema-210&gt;
+- 
+- 
+
+- &lt;anonymous-schema-211&gt;
+- 
+- 
+
+- &lt;anonymous-schema-212&gt;
+- 
+- 
+
+- &lt;anonymous-schema-213&gt;
+- 
+- 
+
+- &lt;anonymous-schema-214&gt;
+- 
+- 
+
+- &lt;anonymous-schema-215&gt;
+- 
+- 
+
+- &lt;anonymous-schema-216&gt;
+- 
+- 
+
+- &lt;anonymous-schema-217&gt;
+- 
+- 
+
+- &lt;anonymous-schema-218&gt;
+- 
+- 
+
+- &lt;anonymous-schema-219&gt;
+- 
+- 
+
+- &lt;anonymous-schema-220&gt;
+- 
+- 
+
+- &lt;anonymous-schema-221&gt;
+- 
+- 
+
+- &lt;anonymous-schema-222&gt;
+- 
+- 
+
+- &lt;anonymous-schema-223&gt;
+- 
+- 
+
+- &lt;anonymous-schema-224&gt;
+- 
+- 
+
+- &lt;anonymous-schema-225&gt;
+- 
+- 
+
+- &lt;anonymous-schema-226&gt;
+- 
+- 
+
+- &lt;anonymous-schema-227&gt;
+- 
+- 
+
+- &lt;anonymous-schema-228&gt;
+- 
+- 
+
+- ServiceSpecificationRef
+- ServiceSpecificationRef
+- 
+
+- &lt;anonymous-schema-229&gt;
+- 
+- 
+
+- &lt;anonymous-schema-230&gt;
+- 
+- 
+
+- &lt;anonymous-schema-231&gt;
+- 
+- 
+
+- &lt;anonymous-schema-232&gt;
+- 
+- 
+
+- &lt;anonymous-schema-233&gt;
+- 
+- 
+
+- &lt;anonymous-schema-234&gt;
+- 
+- 

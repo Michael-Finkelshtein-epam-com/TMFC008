@@ -1,0 +1,48 @@
+Schema name is 'Feature' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-11&gt;
+- 
+- 
+
+- &lt;anonymous-schema-12&gt;
+- 
+- 
+
+- &lt;anonymous-schema-13&gt;
+- 
+- 
+
+- &lt;anonymous-schema-14&gt;
+- 
+- 
+
+- &lt;anonymous-schema-15&gt;
+- 
+- 
+
+- &lt;anonymous-schema-16&gt;
+- 
+- 
+
+- &lt;anonymous-schema-25&gt;
+- 
+- 
+
+- &lt;anonymous-schema-40&gt;
+- 
+- 
+
+- &lt;anonymous-schema-50&gt;
+- 
+- 
+
+- &lt;anonymous-schema-51&gt;
+- 
+- 
+
+- &lt;anonymous-schema-52&gt;
+- 
+- 

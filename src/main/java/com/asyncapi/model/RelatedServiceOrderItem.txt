@@ -1,0 +1,48 @@
+Schema name is 'RelatedServiceOrderItem' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-95&gt;
+- 
+- 
+
+- &lt;anonymous-schema-96&gt;
+- 
+- 
+
+- &lt;anonymous-schema-97&gt;
+- 
+- 
+
+- &lt;anonymous-schema-98&gt;
+- 
+- 
+
+- &lt;anonymous-schema-99&gt;
+- 
+- 
+
+- &lt;anonymous-schema-100&gt;
+- 
+- 
+
+- &lt;anonymous-schema-101&gt;
+- 
+- 
+
+- &lt;anonymous-schema-102&gt;
+- 
+- 
+
+- &lt;anonymous-schema-103&gt;
+- 
+- 
+
+- &lt;anonymous-schema-104&gt;
+- 
+- 
+
+- &lt;anonymous-schema-105&gt;
+- 
+- 

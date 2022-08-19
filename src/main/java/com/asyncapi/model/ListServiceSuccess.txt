@@ -1,0 +1,16 @@
+Schema name is 'ListServiceSuccess' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-263&gt;
+- 
+- 
+
+- &lt;anonymous-schema-264&gt;
+- 
+- 
+
+- &lt;anonymous-schema-265&gt;
+- 
+- 

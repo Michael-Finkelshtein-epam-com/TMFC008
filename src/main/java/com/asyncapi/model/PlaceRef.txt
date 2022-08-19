@@ -1,0 +1,32 @@
+Schema name is 'PlaceRef' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-274&gt;
+- 
+- 
+
+- &lt;anonymous-schema-275&gt;
+- 
+- 
+
+- &lt;anonymous-schema-276&gt;
+- 
+- 
+
+- &lt;anonymous-schema-277&gt;
+- 
+- 
+
+- &lt;anonymous-schema-278&gt;
+- 
+- 
+
+- &lt;anonymous-schema-279&gt;
+- 
+- 
+
+- &lt;anonymous-schema-280&gt;
+- 
+- 

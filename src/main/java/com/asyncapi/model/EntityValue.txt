@@ -1,0 +1,24 @@
+Schema name is 'EntityValue' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-306&gt;
+- 
+- 
+
+- &lt;anonymous-schema-307&gt;
+- 
+- 
+
+- &lt;anonymous-schema-308&gt;
+- 
+- 
+
+- &lt;anonymous-schema-309&gt;
+- 
+- 
+
+- &lt;anonymous-schema-310&gt;
+- 
+- 

@@ -1,0 +1,12 @@
+Schema name is 'BadRequestResponse' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-194&gt;
+- 
+- 
+
+- Error
+- 
+- 

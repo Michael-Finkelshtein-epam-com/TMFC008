@@ -1,0 +1,32 @@
+Schema name is 'Note' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-59&gt;
+- 
+- 
+
+- &lt;anonymous-schema-60&gt;
+- 
+- 
+
+- &lt;anonymous-schema-61&gt;
+- 
+- 
+
+- &lt;anonymous-schema-62&gt;
+- 
+- 
+
+- &lt;anonymous-schema-63&gt;
+- 
+- 
+
+- &lt;anonymous-schema-64&gt;
+- 
+- 
+
+- &lt;anonymous-schema-65&gt;
+- 
+- 

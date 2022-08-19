@@ -1,0 +1,36 @@
+Schema name is 'RelatedPlaceRefOrValue' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-67&gt;
+- 
+- 
+
+- &lt;anonymous-schema-68&gt;
+- 
+- 
+
+- &lt;anonymous-schema-69&gt;
+- 
+- 
+
+- &lt;anonymous-schema-70&gt;
+- 
+- 
+
+- &lt;anonymous-schema-71&gt;
+- 
+- 
+
+- &lt;anonymous-schema-72&gt;
+- 
+- 
+
+- &lt;anonymous-schema-73&gt;
+- 
+- 
+
+- &lt;anonymous-schema-74&gt;
+- 
+- 

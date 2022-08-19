@@ -1,0 +1,36 @@
+Schema name is 'FeatureRelationship' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-41&gt;
+- 
+- 
+
+- &lt;anonymous-schema-42&gt;
+- 
+- 
+
+- &lt;anonymous-schema-43&gt;
+- 
+- 
+
+- &lt;anonymous-schema-44&gt;
+- 
+- 
+
+- &lt;anonymous-schema-45&gt;
+- 
+- 
+
+- &lt;anonymous-schema-46&gt;
+- 
+- 
+
+- &lt;anonymous-schema-47&gt;
+- 
+- 
+
+- FeatureRelationshipValidFor
+- FeatureRelationshipValidFor
+- 

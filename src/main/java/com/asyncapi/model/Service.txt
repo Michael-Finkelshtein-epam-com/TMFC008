@@ -1,0 +1,120 @@
+Schema name is 'Service' and properties are:
+T005-Service
+T006-
+
+
+- &lt;anonymous-schema-166&gt;
+- 
+- 
+
+- &lt;anonymous-schema-167&gt;
+- 
+- 
+
+- &lt;anonymous-schema-168&gt;
+- 
+- 
+
+- &lt;anonymous-schema-169&gt;
+- 
+- 
+
+- &lt;anonymous-schema-170&gt;
+- 
+- 
+
+- &lt;anonymous-schema-171&gt;
+- 
+- 
+
+- &lt;anonymous-schema-172&gt;
+- 
+- 
+
+- &lt;anonymous-schema-173&gt;
+- 
+- 
+
+- &lt;anonymous-schema-174&gt;
+- 
+- 
+
+- &lt;anonymous-schema-175&gt;
+- 
+- 
+
+- &lt;anonymous-schema-176&gt;
+- 
+- 
+
+- &lt;anonymous-schema-177&gt;
+- 
+- 
+
+- &lt;anonymous-schema-178&gt;
+- 
+- 
+
+- &lt;anonymous-schema-179&gt;
+- 
+- 
+
+- &lt;anonymous-schema-180&gt;
+- 
+- 
+
+- &lt;anonymous-schema-181&gt;
+- 
+- 
+
+- &lt;anonymous-schema-182&gt;
+- 
+- 
+
+- &lt;anonymous-schema-183&gt;
+- 
+- 
+
+- &lt;anonymous-schema-184&gt;
+- 
+- 
+
+- &lt;anonymous-schema-185&gt;
+- 
+- 
+
+- &lt;anonymous-schema-186&gt;
+- 
+- 
+
+- &lt;anonymous-schema-187&gt;
+- 
+- 
+
+- ServiceSpecificationRef
+- ServiceSpecificationRef
+- 
+
+- &lt;anonymous-schema-188&gt;
+- 
+- 
+
+- &lt;anonymous-schema-189&gt;
+- 
+- 
+
+- &lt;anonymous-schema-190&gt;
+- 
+- 
+
+- &lt;anonymous-schema-191&gt;
+- 
+- 
+
+- &lt;anonymous-schema-192&gt;
+- 
+- 
+
+- &lt;anonymous-schema-193&gt;
+- 
+- 

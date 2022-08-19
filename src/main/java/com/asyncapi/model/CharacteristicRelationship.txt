@@ -1,0 +1,28 @@
+Schema name is 'CharacteristicRelationship' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-30&gt;
+- 
+- 
+
+- &lt;anonymous-schema-31&gt;
+- 
+- 
+
+- &lt;anonymous-schema-32&gt;
+- 
+- 
+
+- &lt;anonymous-schema-33&gt;
+- 
+- 
+
+- &lt;anonymous-schema-34&gt;
+- 
+- 
+
+- &lt;anonymous-schema-35&gt;
+- 
+- 

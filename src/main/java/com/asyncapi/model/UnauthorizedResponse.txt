@@ -1,0 +1,12 @@
+Schema name is 'UnauthorizedResponse' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-203&gt;
+- 
+- 
+
+- Error
+- 
+- 

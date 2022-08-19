@@ -1,0 +1,32 @@
+Schema name is 'ServiceRef' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-297&gt;
+- 
+- 
+
+- &lt;anonymous-schema-298&gt;
+- 
+- 
+
+- &lt;anonymous-schema-299&gt;
+- 
+- 
+
+- &lt;anonymous-schema-300&gt;
+- 
+- 
+
+- &lt;anonymous-schema-301&gt;
+- 
+- 
+
+- &lt;anonymous-schema-302&gt;
+- 
+- 
+
+- &lt;anonymous-schema-303&gt;
+- 
+- 

@@ -1,0 +1,4 @@
+Schema name is 'ServiceStateType' and properties are:
+T005-
+T006-
+

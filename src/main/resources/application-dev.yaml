@@ -1,0 +1,39 @@
+profiles: dev
+  server:
+    port: 8083
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: TMFC008
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring:
+          json:
+            #            value:
+            #              default:
+            #                type: com.asyncapi.model.PatchProductOrderResponse
+            type:
+              mapping: 'ProductOrder:com.asyncapi.model.ProductOrder,
+                        PatchProductOrderRequestPayload:com.asyncapi.model.PatchProductOrderRequestPayload,
+                        PatchProductResponse:com.asyncapi.model.PatchProductResponse,
+                        PatchProductOrderResponse:com.asyncapi.model.PatchProductOrderResponse'
+            trusted:
+              packages: '*'
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+      properties:
+        acks: 1
+        spring.json.use.type.headers: false
+        spring:
+          json:
+            type:
+              mapping: 'ProductOrder:com.asyncapi.model.ProductOrder, 
+                        PatchProductOrderRequestPayload:com.asyncapi.model.PatchProductOrderRequestPayload,
+                        PatchProductResponse:com.asyncapi.model.PatchProductResponse,
+                        PatchProductOrderResponse:com.asyncapi.model.PatchProductOrderResponse'
+            add:
+              type:
+                headers: false

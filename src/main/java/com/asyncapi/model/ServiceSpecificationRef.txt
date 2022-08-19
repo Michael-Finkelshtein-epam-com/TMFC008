@@ -1,0 +1,36 @@
+Schema name is 'ServiceSpecificationRef' and properties are:
+T005-ServiceSpecificationRef
+T006-
+
+
+- &lt;anonymous-schema-136&gt;
+- 
+- 
+
+- &lt;anonymous-schema-137&gt;
+- 
+- 
+
+- &lt;anonymous-schema-138&gt;
+- 
+- 
+
+- &lt;anonymous-schema-139&gt;
+- 
+- 
+
+- &lt;anonymous-schema-140&gt;
+- 
+- 
+
+- &lt;anonymous-schema-141&gt;
+- 
+- 
+
+- &lt;anonymous-schema-142&gt;
+- 
+- 
+
+- &lt;anonymous-schema-143&gt;
+- 
+- 

@@ -1,0 +1,24 @@
+Schema name is 'Entity' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-291&gt;
+- 
+- 
+
+- &lt;anonymous-schema-292&gt;
+- 
+- 
+
+- &lt;anonymous-schema-293&gt;
+- 
+- 
+
+- &lt;anonymous-schema-294&gt;
+- 
+- 
+
+- &lt;anonymous-schema-295&gt;
+- 
+- 

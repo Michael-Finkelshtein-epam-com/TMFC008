@@ -1,0 +1,8 @@
+Schema name is 'DeleteServiceRequestPayload' and properties are:
+T005-
+T006-
+
+
+- DeleteServiceRequestPayloadParameters
+- DeleteServiceRequestPayloadParameters
+- 

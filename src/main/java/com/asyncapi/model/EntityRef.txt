@@ -1,0 +1,32 @@
+Schema name is 'EntityRef' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-281&gt;
+- 
+- 
+
+- &lt;anonymous-schema-282&gt;
+- 
+- 
+
+- &lt;anonymous-schema-283&gt;
+- 
+- 
+
+- &lt;anonymous-schema-284&gt;
+- 
+- 
+
+- &lt;anonymous-schema-285&gt;
+- 
+- 
+
+- &lt;anonymous-schema-286&gt;
+- 
+- 
+
+- &lt;anonymous-schema-287&gt;
+- 
+- 

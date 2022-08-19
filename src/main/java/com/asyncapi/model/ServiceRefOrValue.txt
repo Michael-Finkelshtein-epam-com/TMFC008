@@ -1,0 +1,124 @@
+Schema name is 'ServiceRefOrValue' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-113&gt;
+- 
+- 
+
+- &lt;anonymous-schema-114&gt;
+- 
+- 
+
+- &lt;anonymous-schema-115&gt;
+- 
+- 
+
+- &lt;anonymous-schema-116&gt;
+- 
+- 
+
+- &lt;anonymous-schema-117&gt;
+- 
+- 
+
+- &lt;anonymous-schema-118&gt;
+- 
+- 
+
+- &lt;anonymous-schema-119&gt;
+- 
+- 
+
+- &lt;anonymous-schema-120&gt;
+- 
+- 
+
+- &lt;anonymous-schema-121&gt;
+- 
+- 
+
+- &lt;anonymous-schema-122&gt;
+- 
+- 
+
+- &lt;anonymous-schema-123&gt;
+- 
+- 
+
+- &lt;anonymous-schema-124&gt;
+- 
+- 
+
+- &lt;anonymous-schema-125&gt;
+- 
+- 
+
+- &lt;anonymous-schema-126&gt;
+- 
+- 
+
+- &lt;anonymous-schema-127&gt;
+- 
+- 
+
+- &lt;anonymous-schema-128&gt;
+- 
+- 
+
+- &lt;anonymous-schema-129&gt;
+- 
+- 
+
+- &lt;anonymous-schema-130&gt;
+- 
+- 
+
+- &lt;anonymous-schema-131&gt;
+- 
+- 
+
+- &lt;anonymous-schema-132&gt;
+- 
+- 
+
+- &lt;anonymous-schema-133&gt;
+- 
+- 
+
+- &lt;anonymous-schema-134&gt;
+- 
+- 
+
+- &lt;anonymous-schema-135&gt;
+- 
+- 
+
+- ServiceSpecificationRef
+- ServiceSpecificationRef
+- 
+
+- &lt;anonymous-schema-144&gt;
+- 
+- 
+
+- &lt;anonymous-schema-145&gt;
+- 
+- 
+
+- &lt;anonymous-schema-146&gt;
+- 
+- 
+
+- &lt;anonymous-schema-147&gt;
+- 
+- 
+
+- &lt;anonymous-schema-148&gt;
+- 
+- 
+
+- &lt;anonymous-schema-156&gt;
+- 
+- 

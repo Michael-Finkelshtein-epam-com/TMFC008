@@ -1,0 +1,36 @@
+Schema name is 'RelatedParty' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-85&gt;
+- 
+- 
+
+- &lt;anonymous-schema-86&gt;
+- 
+- 
+
+- &lt;anonymous-schema-87&gt;
+- 
+- 
+
+- &lt;anonymous-schema-88&gt;
+- 
+- 
+
+- &lt;anonymous-schema-89&gt;
+- 
+- 
+
+- &lt;anonymous-schema-90&gt;
+- 
+- 
+
+- &lt;anonymous-schema-91&gt;
+- 
+- 
+
+- &lt;anonymous-schema-92&gt;
+- 
+- 

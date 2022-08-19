@@ -1,0 +1,36 @@
+Schema name is 'Characteristic' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-26&gt;
+- 
+- 
+
+- &lt;anonymous-schema-27&gt;
+- 
+- 
+
+- &lt;anonymous-schema-28&gt;
+- 
+- 
+
+- &lt;anonymous-schema-29&gt;
+- 
+- 
+
+- &lt;anonymous-schema-36&gt;
+- 
+- 
+
+- &lt;anonymous-schema-37&gt;
+- 
+- 
+
+- &lt;anonymous-schema-38&gt;
+- 
+- 
+
+- &lt;anonymous-schema-39&gt;
+- 
+- 

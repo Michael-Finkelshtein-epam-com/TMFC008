@@ -1,0 +1,28 @@
+Schema name is 'Place' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-268&gt;
+- 
+- 
+
+- &lt;anonymous-schema-269&gt;
+- 
+- 
+
+- &lt;anonymous-schema-270&gt;
+- 
+- 
+
+- &lt;anonymous-schema-271&gt;
+- 
+- 
+
+- &lt;anonymous-schema-272&gt;
+- 
+- 
+
+- &lt;anonymous-schema-273&gt;
+- 
+- 

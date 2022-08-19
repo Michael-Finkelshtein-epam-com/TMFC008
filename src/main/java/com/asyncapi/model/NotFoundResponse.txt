@@ -1,0 +1,12 @@
+Schema name is 'NotFoundResponse' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-205&gt;
+- 
+- 
+
+- Error
+- 
+- 

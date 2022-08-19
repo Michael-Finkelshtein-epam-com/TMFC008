@@ -1,0 +1,44 @@
+Schema name is 'ListServiceResponsePayload' and properties are:
+T005-
+T006-statusCode
+
+    T006-ListServiceSuccess
+    T006-
+    T006-object
+
+
+    T006-BadRequestResponse
+    T006-
+    T006-object
+
+
+    T006-UnauthorizedResponse
+    T006-
+    T006-object
+
+
+    T006-ForbiddenResponse
+    T006-
+    T006-object
+
+
+    T006-NotFoundResponse
+    T006-
+    T006-object
+
+
+    T006-MethodNotAllowedResponse
+    T006-
+    T006-object
+
+
+    T006-ConflictResponse
+    T006-
+    T006-object
+
+
+    T006-InternalServerErrorResponse
+    T006-
+    T006-object
+
+

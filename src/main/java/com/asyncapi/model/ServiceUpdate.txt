@@ -1,0 +1,108 @@
+Schema name is 'ServiceUpdate' and properties are:
+T005-
+T006-
+
+
+- &lt;anonymous-schema-4&gt;
+- 
+- 
+
+- &lt;anonymous-schema-5&gt;
+- 
+- 
+
+- &lt;anonymous-schema-6&gt;
+- 
+- 
+
+- &lt;anonymous-schema-7&gt;
+- 
+- 
+
+- &lt;anonymous-schema-8&gt;
+- 
+- 
+
+- &lt;anonymous-schema-9&gt;
+- 
+- 
+
+- &lt;anonymous-schema-10&gt;
+- 
+- 
+
+- &lt;anonymous-schema-53&gt;
+- 
+- 
+
+- &lt;anonymous-schema-54&gt;
+- 
+- 
+
+- &lt;anonymous-schema-55&gt;
+- 
+- 
+
+- &lt;anonymous-schema-56&gt;
+- 
+- 
+
+- &lt;anonymous-schema-57&gt;
+- 
+- 
+
+- &lt;anonymous-schema-58&gt;
+- 
+- 
+
+- &lt;anonymous-schema-66&gt;
+- 
+- 
+
+- &lt;anonymous-schema-75&gt;
+- 
+- 
+
+- &lt;anonymous-schema-84&gt;
+- 
+- 
+
+- &lt;anonymous-schema-93&gt;
+- 
+- 
+
+- &lt;anonymous-schema-94&gt;
+- 
+- 
+
+- &lt;anonymous-schema-106&gt;
+- 
+- 
+
+- ServiceSpecificationRef
+- ServiceSpecificationRef
+- 
+
+- &lt;anonymous-schema-158&gt;
+- 
+- 
+
+- &lt;anonymous-schema-159&gt;
+- 
+- 
+
+- &lt;anonymous-schema-160&gt;
+- 
+- 
+
+- &lt;anonymous-schema-161&gt;
+- 
+- 
+
+- &lt;anonymous-schema-162&gt;
+- 
+- 
+
+- &lt;anonymous-schema-163&gt;
+- 
+- 
